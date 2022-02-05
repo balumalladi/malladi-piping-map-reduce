@@ -8,4 +8,4 @@ This data is taken from the website kaggle and the link is as follows:
 From this map reduce we can find out the country which have cummulative weeks in top by percentage
 ## Summary
 Below chart title shows the relation between country and weeks
-![chart title]()
+![chart title](https://github.com/balumalladi/malladi-piping-map-reduce/blob/main/Screenshot%20(268).png)
